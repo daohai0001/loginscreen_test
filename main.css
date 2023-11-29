@@ -18,7 +18,7 @@ body {
     height: 100vh;
     font-family: 'Roboto',
         sans-serif;
-    background-image:url(../background.png) ;
+   background: linear-gradient(-45deg, #ee52e6, #e73c7e, #9b3660, #b723d5); ;
     display: flex;
 }
 
